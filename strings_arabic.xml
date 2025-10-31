@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="welcome_to_lms">مرحباً بك في تطبيق إدارة التعلم دعنا نبدأ...</string>
+    <string name="get_started">هيا لنبدأ</string>
+    <string name="next">التالي</string>
+    <string name="you_can_change_later">يمكنك تغيير ذلك لاحقاً من الإعدادات</string>
+    <string name="select_your_preferred_language">اختر لغتك المفضلة</string>
+    <string name="select_language_message">يرجى اختيار لغة قبل المتابعة</string>
+    <string name="select_your_preferred_mode">اختر نمطك المفضل</string>
+    <string name="dark_mode">النمط الغامق</string>
+    <string name="light_mode">النمط الفاتح</string>
+    <string name="select_mode_message">يرجى اختيار نمط قبل المتابعة</string>
+    <string name="explore">استكشف</string>
+    <string name="learn">تعلم</string>
+    <string name="connect">تواصل</string>
+    <string name="study">ادرس</string>
+    <string name="login_prompt">رجاءاً قم بإدخال بيانات حسابك</string>
+    <string name="username_hint">ادخل اسم المستخدم</string>
+    <string name="password_hint">ادخل كلمة السر</string>
+    <string name="remember_me">حفظ بيانات الدخول</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="logo_desc">شعار الجامعة</string>
+    <string name="password">كلمة السر</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="error_username_empty">اسم المستخدم لا يمكن أن يكون فارغاً</string>
+    <string name="error_username_invalid">اسم المستخدم غير صالح.</string>
+    <string name="error_password_empty">كلمة المرور لا يمكن أن تكون فارغة</string>
+    <string name="sign_in_success">تم تسجيل الدخول بنجاح</string>
+    <string name="sign_in_failed">فشل تسجيل الدخول. يرجى التحقق من صحة المعلومات المدخلة</string>
+    <string name="days_left">يوم متبقي</string>
+    <string name="remaining">متبقي</string>
+    <string name="completed">مكتمل</string>
+    <string name="assignment_to_do">وظائف يجب انجازها</string>
+    <string name="assignment_details">تفاصيل الوظائف:</string>
+    <string name="registered">مسجلة</string>
+    <string name="passed">ناجحة</string>
+    <string name="courses_details">تفاصيل المقررات:</string>
+    <string name="dashboard">لوحة بيانات الطالب</string>
+    <string name="courses">المقررات</string>
+    <string name="assignment">الوظائف</string>
+    <string name="notifications">الإشعارات</string>
+    <string name="remaining1">متبقية</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="calendar">التقويم</string>
+    <string name="favourites">المفضلة</string>
+    <string name="settings">الإعدادات</string>
+    <string name="abdo_al_khoury">عبده الخوري</string>
+    <string name="bachelor_in_information_technology_ITE">الإجازة في الهندسة المعلوماتية - ITE</string>
+    <string name="search_by_course_name_or_code">ابحث حسب اسم المقرر أو رمزه</string>
+    <string name="enter_course_name">أكتب اسم أو رمز المقرر باللغة الانجليزية</string>
+    <string name="courses_overview">استعراض المقررات:</string>
+    <string name="filter_courses">تصفية المقررات</string>
+    <string name="switch_to_lists">تبديل إلى قوائم</string>
+    <string name="switch_to_cards">تبديل إلى بطاقات</string>
+    <string name="switch_to_cards_button">زر تبديل إلى بطاقات</string>
+    <string name="switch_to_lists_button">زر تبيدل إلى قوائم</string>
+    <string name="course_title_1">أمن الشبكات والبنية التحتية</string>
+    <string name="course_title_2">الاحتمالات والإحصاء</string>
+    <string name="course_title_3">الاتصالات الرقمية</string>
+    <string name="course_title_4">إدارة المشاريع</string>
+    <string name="course_title_5">تطبيقات الهواتف المحمولة</string>
+    <string name="newCourse">جديدة</string>
+    <string name="search_by_assignment_name_or_code">ابحث عن الوظيفة حسب اسم المقرر أو رمزه</string>
+    <string name="assignment_overview">استعراض الوظائف:</string>
+    <string name="filter_assignment">تصفية الوظائف</string>
+    <string name="sort_by_date">ترتيب حسب التاريخ</string>
+    <string name="start_first">البداية أولاً</string>
+    <string name="end_first">النهاية أولاً</string>
+    <string name="progress">قيد التقدم</string>
+    <string name="go_details">التفاصيل</string>
+    <string name="make_all_as_read">تعيين الكل كمقروء</string>
+    <string name="unread">الغير مقروء</string>
+    <string name="all">الكل</string>
+    <!-- نصوص الإشعارات -->
+    <string name="notification_content_added">تمت إضافة محتوى جديد إلى قسم الموارد لـ %s. اطلع عليه الآن!</string>
+    <string name="notification_assignment_graded">تم تقييم وظيفتك في %s. يمكنك الآن عرض التفاصيل.</string>
+    <string name="notification_assignment_added">تمت إضافة وظيفة جديدة في %s. يرجى مراجعتها وإكمالها.</string>
+
+    <!-- التواريخ -->
+    <string name="date_28_nov_2024">٢٨ نوفمبر ٢٠٢٤، ١:٢٢ صباحاً</string>
+    <string name="date_29_nov_2024_am">٢٩ نوفمبر ٢٠٢٤، ١٠:١٥ صباحاً</string>
+    <string name="date_30_nov_2025">٣٠ نوفمبر ٢٠٢٥، ٣:٤٥ مساءاً</string>
+
+
+    <string name="student_role">طالب</string>
+    <string name="doctor_role">دكتور</string>
+    <string name="coordinator_role">منسق</string>
+    <string name="program_manager_role">مدير برنامج</string>
+    <string name="system_manager_role">مدير نظام</string>
+
+    <string name="john_description">أنا طالب في السنة الثالثة في قسم العلوم الحاسوبية.</string>
+    <string name="jane_description">أنا دكتور متخصص في هندسة البرمجيات.</string>
+    <string name="alice_description">أنا منسقة ومسؤولة عن تنظيم الكورسات.</string>
+
+
+    <!-- عناوين الأقسام -->
+    <string name="section_course_materials">مواد المقرر</string>
+    <string name="section_s24_semester">فصل S24</string>
+
+    <!-- أزرار قسم "مواد المقرر" -->
+    <string name="btn_course_identification">تعريف المقرر</string>
+    <string name="btn_book_pdf">الكتاب / PDF</string>
+    <string name="btn_training_exam">اختبار تدريبي</string>
+    <string name="btn_participants">المشاركون</string>
+    <string name="btn_recorded_sessions">الجلسات المسجلة</string>
+    <string name="btn_references">المراجع</string>
+
+    <!-- أزرار قسم "فصل S24" -->
+    <string name="btn_semester_plan">خطة الفصل</string>
+    <string name="btn_slides_powerpoint">الشرائح / PowerPoint</string>
+    <string name="btn_assignments">الوظائف</string>
+    <string name="btn_tools">الأدوات</string>
+    <string name="search_by_name_or_id_of_user">ابحث حسب اسم المستخدم او رمزه</string>
+    <string name="no_files_available">لا توجد ملفات متاحة حالياً</string>
+
+    <string name="file_already_added">هذا الملف مضاف مسبقاً</string>
+    <string name="no_files_to_edit">لا توجد ملفات للتعديل</string>
+    <string name="choose_file_to_edit">اختر الملف الذي تريد تعديله</string>
+    <string name="no_files_to_delete">لا توجد ملفات للحذف</string>
+    <string name="choose_file_to_delete">اختر الملف الذي تريد حذفه</string>
+    <string name="confirm_delete">تأكيد الحذف</string>
+    <string name="are_you_sure_delete">هل أنت متأكد من حذف الملف؟</string>
+    <string name="yes">نعم</string>
+    <string name="cancel">الغاء</string>
+    <string name="no_files_selected">لم يتم اختيار أي ملف</string>
+    <string name="file_size_exceeds">حجم الملف يتجاوز الحد الأقصى %1$.0f MB</string>
+    <string name="uploading_files">جاري رفع الملفات...</string>
+    <string name="upload_successful">تم رفع الملفات بنجاح</string>
+    <string name="submitted_for_grading">تم ارسالها للتقييم</string>
+    <string name="_19_november_2024_12_00_am">19 نوفمبر 2024 , 12 مساءاً</string>
+    <string name="due">تستحق:</string>
+    <string name="_21_december_2024_12_00_am">21 ديسمبر 2024, 12:00 مساءاً</string>
+    <string name="submission_status">حالة الارسال:</string>
+    <string name="no_attempt">لا يوجد محاولات</string>
+    <string name="grading_status">حالة التقييم:</string>
+    <string name="not_graded">غير مقييم</string>
+    <string name="time_remaining">الوقت المتبقي:</string>
+    <string name="_30_days_9_hours">30 يوم و 9 ساعات</string>
+    <string name="last_modified">آخر تعديل</string>
+    <string name="submit_or_edit_submission">ارسال أو تعديل الارسال</string>
+    <string name="opened">فتحت:</string>
+    <string name="mobile_application_for_a_goods_selling_company">تطبيق جوال لشركة بيع سلع</string>
+    <string name="assignment_upload">رفع الوظيفة</string>
+    <string name="select_your_file_from_here">حدد ملفك من هنا</string>
+    <string name="max_size_is_200_mb">الحجم الأقصى 200 ميجا بايت</string>
+    <string name="added_to_favorites">تمت إضافة الكورس للمفضلة</string>
+    <string name="removed_from_favorites">تمت إزالة الكورس من المفضلة</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="languages">اللغات</string>
+    <string name="account">الحساب</string>
+    <string name="appearance">المظهر</string>
+    <string name="disable">معطّلة</string>
+    <string name="enable">مفعّلة</string>
+    <string name="contact">التواصل</string>
+    <string name="bio">الوصف</string>
+    <string name="save_changes">حفظ التغييرات</string>
+    <string name="your_bio_en">الوصف الخاص بك باللغة الأنجليزية</string>
+    <string name="your_bio_ar">الوصف الخاص بك باللغة العربية</string>
+    <string name="fav_reset_dialog_title">تأكيد العملية</string>
+    <string name="fav_reset_dialog_message">هل أنت متأكد من حذف جميع التفضيلات؟</string>
+    <string name="fav_reset_dialog_positive">نعم</string>
+    <string name="fav_reset_dialog_negative">الغاء</string>
+    <string name="reset_all_favorites">إعادة كل التفضيلات</string>
+    <string name="favorites">المفضلة</string>
+    <string name="confirm">تأكيد</string>
+    <string name="events_label">الأحداث</string>
+    <string name="calendar_title">التقويم</string>
+    <string name="no_events">لا يوجد أحداث في اليوم المحدد</string>
+    <string name="calendar_instruction">اضغط على تاريخ في التقويم لعرض الأحداث المسجّلة</string>
+
+
+    <string name="event_apr17_1">ينتهي تسليم الوظيفة GMA205</string>
+    <string name="event_apr17_2">يبدأ الاختبار التدريبي لمادة INT305</string>
+    <string name="event_apr17_3">محاضرة إضافية متزامنة IPG101</string>
+    <string name="event_apr17_4">محاضرة إضافية متزامنة IPG204</string>
+
+    <string name="event_apr20_1">محاضرة متزامنة اضافية لمادة CEE203</string>
+    <string name="event_apr20_2">بدء تسليم مشاريع التخرج لجميع الاختصاصات</string>
+    <string name="event_apr20_3">تسليم عرض المشروع</string>
+    <string name="event_apr20_4">محاضرة إضافية متزامنة IPG101</string>
+
+    <string name="event_apr22_1">ظهور نتائج تقييم الاختبارات التدريبية CCN404</string>
+    <string name="event_may01_1">تقديم استمارة التغذية الراجعة</string>
+    <string name="event_may05_1">مراجعة نهائية لمقرر GMA205</string>
+    <string name="exit_confirmation_message">أنت على وشك إغلاق التطبيق. هل أنت متأكد؟</string>
+    <string name="confirm_submission_message">هل أنت متأكد من رغبتك في إرسال هذه الملفات؟</string>
+    <string name="error_password_hash_failed">خطأ في معالجة كلمة المرور</string>
+    <string name="error_invalid_credentials">بيانات تسجيل الدخول غير صحيحة</string>
+    <string name="unknown_program">البرنامج غير معروف</string>
+    <string name="no_results_found">لا يوجد نتائج مطابقة</string>
+    <string name="unspecified">غير محدد</string>
+    <string name="unknown_assignment">وظيفة غير معروفة</string>
+    <string name="course_not_found">المقرر غير موجود</string>
+
+    <string name="no_download_url">لا يوجد رابط تحميل متاح</string>
+    <string name="download_failed">فشل التحميل</string>
+    <string name="open_file_failed">فشل في فتح الملف</string>
+    <string name="download_completed">اكتمل التحميل</string>
+
+
+        <string name="check_internet_connection">يرجى التحقق من اتصالك بالإنترنت</string>
+        <string name="storage_permissions_required">أذونات التخزين مطلوبة لتحميل الملفات</string>
+        <string name="file_already_downloading">الملف قيد التحميل بالفعل</string>
+        <string name="invalid_download_url">رابط التحميل غير صالح</string>
+        <string name="download_failed1">فشل بدء التحميل</string>
+        <string name="file_not_found_or_corrupted">الملف غير موجود أو تالف: %1$s</string>
+        <string name="no_app_to_open_file">لا يوجد تطبيق لفتح هذا النوع من الملفات</string>
+        <string name="failed_to_open_file">فشل فتح الملف، قد يكون تالفًا</string>
+        <string name="download_started">بدأ تحميل %1$s</string>
+        <string name="download_completed1">اكتمل تحميل %1$s</string>
+        <string name="download_failed_with_file">فشل تحميل %1$s</string>
+        <string name="open_with">فتح باستخدام</string>
+        <string name="files">ملفات</string>
+        <string name="downloading">جارٍ تحميل %1$s</string>
+        <string name="byte_unit">B</string>
+        <string-array name="file_size_units">
+            <item>KB</item>
+            <item>MB</item>
+            <item>GB</item>
+            <item>TB</item>
+            <item>PB</item>
+            <item>EB</item>
+        </string-array>
+    <string name="assignment_not_found">الملف غير موجود</string>
+    <string name="due_date_passed">انتهى الموعد النهائي</string>
+    <string name="file_download_in_progress">الملف %1$s قيد التحميل</string>
+    <string name="not_enrolled_in_course">أنت غير مسجل في هذا المقرر</string>
+    <string name="invalid_assignment_data">بيانات الوظيفة غير صحيحة</string>
+    <string name="file_save_failed">فشل الحفظ الرجاء المحاولة مرة أخرى</string>
+    <string name="upload_failed">فشل الرفع الرجاء المحاولة مرة أخرى</string>
+    <string name="favorites_empty">المفضلة الخاصة بك فارغة \n🌚</string>
+    <string name="invalid_tool_data">بيانات الأداة غير صحيحة</string>
+    <string name="SubmitTitle">تم ارسال الوظيفة</string>
+    <string name="user_id_not_found">لم يتم التعرف على المستخدم</string>
+    <string name="invalid_tool_id">"معرف أداة غير صالح "</string>
+    <string name="invalid_course_data">"بيانات المقرر غير صالحة "</string>
+    <string name="cancel_edit">"إلغاء التعديل "</string>
+    <string name="image_permission_error">"خطأ في إذن الصورة "</string>
+    <string name="image_load_failed">"فشل تحميل الصورة "</string>
+    <string name="profile_updated">"تم تحديث الملف الشخصي "</string>
+    <string name="update_failed">فشل التحديث</string>
+    <string name="GradedTitle">تم تقييم الوظيفة</string>
+    <string name="date_parse_error">بيانات التاريخ خاطئة</string>
+    <string name="fav_reset_success">تم إعادة تعيين المفضلة بنجاح</string>
+    <string name="fav_reset_failed">فشل اعادة تعيين المفضلة</string>
+    <string name="invalid_course_order">ترتيب المقررات غير صحيح</string>
+    <string name="invalid_assignment_order">ترتيب الوظائف غير صحيح</string>
+    <string name="all_notifications_marked_read">كل الإشعارات تم تعيينها كمقروء</string>
+    <string name="no_notifications_found">لا يوجد اشعارات غير مقروءة</string>
+    <string name="bachelor_in_communications_technology_bact">الهندسة المعلوماتية_ITE</string>
+
+    <!-- عناوين لوحة التحكم -->
+    <string name="admin_dashboard">لوحة تحكم المدير</string>
+    <string name="user_management">إدارة المستخدمين</string>
+    <string name="academic_year_management">إدارة السنة الدراسية</string>
+    <string name="term_management">إدارة الفصل الدراسي</string>
+    <string name="course_management">إدارة المقررات</string>
+    <string name="system_settings">إعدادات النظام</string>
+    <string name="reports">التقارير</string>
+    <string name="admin_role">مدير النظام</string>
+
+    <!-- إدارة المستخدمين -->
+    <string name="users_management">إدارة المستخدمين</string>
+    <string name="search_by_name_email_or_role">ابحث بالاسم، البريد، أو الدور</string>
+    <string name="filter_users">تصفية المستخدمين</string>
+    <string name="students">طلاب</string>
+    <string name="teachers">مدرسون</string>
+    <string name="admins">مديرون</string>
+    <string name="active">نشط</string>
+    <string name="inactive">غير نشط</string>
+    <string name="suspended">موقوف</string>
+    <string name="add_new_user">إضافة مستخدم جديد</string>
+    <string name="user_details">تفاصيل المستخدم</string>
+    <string name="edit_user">تعديل المستخدم</string>
+    <string name="delete_user">حذف المستخدم</string>
+    <string name="confirm_delete_user">هل أنت متأكد من حذف المستخدم؟</string>
+    <string name="user_deleted_successfully">تم حذف المستخدم بنجاح</string>
+    <string name="user_updated_successfully">تم تحديث المستخدم بنجاح</string>
+    <string name="user_added_successfully">تم إضافة المستخدم بنجاح</string>
+
+    <!-- أدوار المستخدمين -->
+    <!-- الأدوار بالعربية -->
+    <string name="role_student">طالب</string>
+    <string name="role_teacher">مدرس</string>
+    <string name="role_admin">مدير</string>
+    <string name="role_student_en">طالب</string>
+    <string name="role_teacher_en">مدرس</string>
+    <string name="role_admin_en">مدير</string>
+
+    <!-- حالات الحساب -->
+    <string name="status_active">نشط</string>
+    <string name="status_inactive">غير نشط</string>
+    <string name="status_suspended">موقوف</string>
+
+    <!-- إضافة مستخدم جديد -->
+    <string name="add_new_user_dialog">إضافة مستخدم جديد</string>
+    <string name="name_in_english">الاسم بالإنجليزية</string>
+    <string name="name_in_arabic">الاسم بالعربية</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="select_role">اختر الدور</string>
+    <string name="academic_program">البرنامج الأكاديمي</string>
+    <string name="program_select">اختر البرنامج الأكاديمي</string>
+    <string name="add">إضافة</string>
+    <string name="user_added_success">تم إضافة المستخدم بنجاح</string>
+    <string name="fill_required_fields">يرجى ملء جميع الحقول المطلوبة</string>
+    <string name="invalid_email">بريد إلكتروني غير صالح</string>
+    <string name="name_english_required">الاسم باللغة الإنكليزية مطلوب</string>
+    <string name="name_arabic_required">الاسم باللغة العربية مطلوب</string>
+    <string name="email_required">الإيميل مطلوب</string>
+    <string name="password_required">كلمة المرور مطلوب</string>
+    <string name="password_min_length">يجب ألا تقل كلمة المرور عن 6 أحرف</string>
+    <string name="role_required">الدور مطلوب</string>
+    <string name="choose_program">اختر برزنامج</string>
+    <string name="failed_to_add_user">فشل في إضافة مستخدم ، يمكن أن يكون الإيميل قيد الاستخدام</string>
+
+    <!-- الإحصائيات -->
+    <string name="total_users">إجمالي المستخدمين</string>
+    <string name="total_courses">إجمالي المقررات</string>
+    <string name="active_assignments">الواجبات النشطة</string>
+    <string name="pending_requests">طلبات بانتظار الموافقة</string>
+
+    <!-- التنبيهات -->
+    <string name="quick_stats">الإحصائيات السريعة</string>
+    <string name="important_alerts">التنبيهات المهمة</string>
+    <string name="recent_activities">أحدث النشاطات</string>
+    <string name="quick_access">الوصول السريع</string>
+
+    <!-- Academic Years -->
+       <string name="add_academic_year">إضافة سنة دراسية جديدة</string>
+       <string name="info_academic_year">معلومات السنة الدراسية</string>
+       <string name="academic_year">السنة الدراسية</string>
+       <string name="year_name_arabic">اسم السنة الدراسية (عربي)</string>
+       <string name="year_name_english">اسم السنة الدراسية (إنجليزي)</string>
+       <string name="enter_year_name_arabic">أدخل اسم السنة الدراسية بالعربية</string>
+       <string name="enter_year_name_english">أدخل اسم السنة الدراسية بالإنجليزية</string>
+       <string name="please_enter_year_name">الرجاء إدخال اسم السنة الدراسية</string>
+       <string name="year_added_successfully">تم إضافة السنة بنجاح</string>
+       <string name="year_updated_successfully">تم تحديث السنة بنجاح</string>
+       <string name="error_adding_year">خطأ في إضافة السنة</string>
+       <string name="error_updating_year">خطأ في تحديث السنة</string>
+
+       <!-- Terms -->
+    <string name="terms">الفصول الدراسية</string>
+    <string name="term_name_arabic">اسم الفصل (عربي)</string>
+    <string name="term_name_english">اسم الفصل (إنجليزي)</string>
+    <string name="enter_term_name_arabic">أدخل اسم الفصل بالعربية</string>
+    <string name="enter_term_name_english">أدخل اسم الفصل بالإنجليزية</string>
+    <string name="term_number">رقم الفصل</string>
+    <string name="term">الفصل</string>
+    <string name="please_enter_term_name">الرجاء إدخال اسم الفصل</string>
+    <string name="term_added_successfully">تم إضافة الفصل بنجاح</string>
+    <string name="term_updated_successfully">تم تحديث الفصل بنجاح</string>
+    <string name="term_deleted_successfully">تم حذف الفصل بنجاح</string>
+    <string name="error_adding_term">خطأ في إضافة الفصل</string>
+    <string name="error_updating_term">خطأ في تحديث الفصل</string>
+    <string name="error_deleting_term">خطأ في حذف الفصل</string>
+    <string name="select_academic_year_first">الرجاء اختيار سنة دراسية أولاً</string>
+    <string name="delete_term">حذف الفصل</string>
+    <string name="are_you_sure_delete_term">هل أنت متأكد من حذف هذا الفصل؟</string>
+
+    <!-- Common -->
+
+    <string name="info_term">معلومات الفصل الدراسي</string>
+    <string name="add_new_term">إضافة فصل دراسي جديد</string>
+    <string name="start_date">تاريخ البدء</string>
+    <string name="end_date">تاريخ الانتهاء</string>
+    <string name="select_date">اختر التاريخ</string>
+    <string name="please_select_dates">الرجاء اختيار التواريخ</string>
+
+    <string name="save">حفظ</string>
+    <string name="update">تعديل</string>
+    <string name="edit">تعديل</string>
+    <string name="delete">حذف</string>
+
+    <string name="term_name">اسم الفصل</string>
+
+    <string name="add_academic_program">إضافة برنامج أكاديمي</string>
+    <string name="program_code">رمز البرنامج</string>
+    <string name="program_name_ar">اسم البرنامج (عربي)</string>
+    <string name="program_name_en">اسم البرنامج (إنجليزي)</string>
+    <string name="program_duration">مدة البرنامج (السنوات)</string>
+
+    <string name="notification">التنبيهات</string>
+    <string name="statistic">الإحصائيات السريعة</string>
+</resources>
