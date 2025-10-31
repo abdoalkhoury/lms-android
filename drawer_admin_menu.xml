@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- عناصر التنقل الأساسية -->
+    <!-- قسم إدارة النظام -->
+    <group android:id="@+id/nav_group_management">
+        <item
+            android:id="@+id/nav_admin_dashboard"
+            android:icon="@drawable/dashboard_icon"
+            android:title="@string/admin_dashboard" />
+        <item
+            android:id="@+id/nav_admin_user_management"
+            android:icon="@drawable/user_icon"
+            android:title="@string/user_management" />
+        <item
+            android:id="@+id/nav_admin_academic_year"
+            android:icon="@drawable/academic_year_icon"
+            android:title="@string/academic_year_management" />
+        <item
+            android:id="@+id/nav_admin_term"
+            android:icon="@drawable/term_icon"
+            android:title="@string/term_management" />
+        <item
+            android:id="@+id/nav_admin_academic_program"
+            android:icon="@drawable/academic_program_icon"
+            android:title="@string/academic_program" />
+        <item
+            android:id="@+id/nav_admin_course_management"
+            android:icon="@drawable/courses_icon"
+            android:title="@string/course_management" />
+        <item
+            android:id="@+id/nav_admin_reports"
+            android:icon="@drawable/reports_icon"
+            android:title="@string/reports" />
+    </group>
+
+    <!-- قسم الإعدادات -->
+    <group android:id="@+id/nav_group_settings">
+        <item
+            android:id="@+id/nav_system_settings"
+            android:icon="@drawable/system_settings_icon"
+            android:title="@string/system_settings" />
+        <item
+            android:id="@+id/nav_app_settings"
+            android:icon="@drawable/settings_icon"
+            android:title="@string/settings" />
+    </group>
+
+    <!-- قسم الملف الشخصي والإدارة الشخصية -->
+    <group android:id="@+id/nav_group_profile">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/profile_icon"
+            android:title="@string/profile" />
+    </group>
+
+    <!-- قسم تسجيل الخروج -->
+    <group android:id="@+id/nav_group_logout">
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/logout"
+            android:title="@string/logout" />
+    </group>
+
+</menu>

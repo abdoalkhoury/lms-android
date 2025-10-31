@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fragment_admin_dashboard"
+        android:icon="@drawable/dashboard_icon"
+        android:title="@string/admin_dashboard" />
+    <item
+        android:id="@+id/fragment_admin_users"
+        android:icon="@drawable/user_icon"
+        android:title="@string/user_management" />
+    <item
+        android:id="@+id/fragment_admin_reports"
+        android:icon="@drawable/reports_icon"
+        android:title="@string/reports" />
+</menu>
